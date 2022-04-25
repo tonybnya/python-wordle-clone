@@ -1,4 +1,4 @@
-# WORDLE - The Word's Trending Game.
+# WORDLE - Python version.
 
 WORDLE is the trending game only available on the web
 `https://www.powerlanguage.co.uk/wordle/`
